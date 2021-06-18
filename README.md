@@ -18,11 +18,14 @@ We need to use PySpark, Pandas or SQl to determine if there is any bias toward f
 
 ![vine_df](https://user-images.githubusercontent.com/78666055/122581308-e982de00-d024-11eb-8556-ef23cbe98c0c.png)
 
-#### The Calculations:
+#### The Calculations and Results as shown below:
+##### 1. There were a total of 39,095 reviews filtered from the dataset based on total_votes >= 20 and percentage of helpful_votes >= 50%.
+##### 2. Of this, there were 266 Vine reviews and 38,829 non-Vine reviews.
+##### 3. These were further filtered to show 125 of the 266 Vine reviews were 5-star rating and 18,246 of 38,829 were 5-star rating.
 ![Del2_results_1](https://user-images.githubusercontent.com/78666055/122581245-d8d26800-d024-11eb-97c0-befc90679704.png)
 
 #### The Percentages:
-##### There seem to be no bias in the reviews as the percentages are almost identical.
+##### As can be seen below, there seem to be no bias in the reviews as the percentages are almost identical.
 ![Del2_results_2](https://user-images.githubusercontent.com/78666055/122581256-db34c200-d024-11eb-93fe-7099b85d47e1.png)
 
 
