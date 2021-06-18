@@ -13,14 +13,16 @@ We need to use PySpark, Pandas or SQl to determine if there is any bias toward f
 
 # Results
 
-### The Vine DataFrame:
+#### The Vine DataFrame:
+##### Taken from the Home Improvement Dataset: https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Home_Improvement_v1_00.tsv.gz
+
 ![vine_df](https://user-images.githubusercontent.com/78666055/122581308-e982de00-d024-11eb-8556-ef23cbe98c0c.png)
 
-### The Calculations:
+#### The Calculations:
 ![Del2_results_1](https://user-images.githubusercontent.com/78666055/122581245-d8d26800-d024-11eb-97c0-befc90679704.png)
 
-### The Percentages:
-#### There seem to be no bias in the reviews as the percentages are almost identical.
+#### The Percentages:
+##### There seem to be no bias in the reviews as the percentages are almost identical.
 ![Del2_results_2](https://user-images.githubusercontent.com/78666055/122581256-db34c200-d024-11eb-93fe-7099b85d47e1.png)
 
 
