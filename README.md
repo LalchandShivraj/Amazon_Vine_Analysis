@@ -12,11 +12,14 @@ We need to use PySpark, Pandas or SQl to determine if there is any bias toward f
 5.	Calculate: number of reviews, number of 5-star reviews and persentage of reviews for paid and unpaid reviews.
 
 # Results
+
+### The Vine DataFrame:
 ![vine_df](https://user-images.githubusercontent.com/78666055/122581308-e982de00-d024-11eb-8556-ef23cbe98c0c.png)
 
-
+### The Calculations:
 ![Del2_results_1](https://user-images.githubusercontent.com/78666055/122581245-d8d26800-d024-11eb-97c0-befc90679704.png)
 
+### The Percentages:
 ![Del2_results_2](https://user-images.githubusercontent.com/78666055/122581256-db34c200-d024-11eb-93fe-7099b85d47e1.png)
 
 
